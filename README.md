@@ -1,2 +1,2 @@
 # demo-repo
-learn to use this
+Learn to use this.
